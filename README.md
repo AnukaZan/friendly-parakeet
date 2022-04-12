@@ -13,6 +13,6 @@ https://anukazan.github.io/friendly-parakeet/
 ![website image](./Develop/website.png)
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Anuka
 
-### ©️2019 Run Buddy, Inc 
+### ©️2022 Password Generator
